@@ -57,25 +57,25 @@ cd melomys
 * To build and run the OS:
 
 ```bash
-make all
+./build.sh all
 ```
 
 * To build only :
 
 ```bash
-make build
+./build.sh build
 ```
 
 * To run an existing iso:
 
 ```bash
-make run
+./build.sh run
 ```
 
 * To clean all generated binaries:
 
 ```bash
-make clean
+./build.sh clean
 ```
 ## Questions
 
